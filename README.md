@@ -1,7 +1,8 @@
 Yoooo/Techno Optimist
-
 - Active on twitter(now demoted to X) @that_anokha_boy
 - Actively working on flutter, frontend, backend stuff
+- Intrested in collaborating in a project involving real-time communication protocols. 
+
 <!--
 **sonigeez/sonigeez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

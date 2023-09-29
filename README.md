@@ -4,6 +4,9 @@ Yoooo/Techno Optimist
 - intrested in collaborating in a project involving real-time web technologies.
 - im doing physics major btw
 
+![Bharat's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonigeez&theme=shades-of-purple&show_icons=true&count_private=true)
+
+
 
 <!--
 **sonigeez/sonigeez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,11 +4,13 @@ Yoooo/Techno Optimist
 - intrested in collaborating in a project involving real-time web technologies.
 - im doing physics major btw
 
-![Bharat's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonigeez&theme=shades-of-purple&show_icons=true&count_private=true)
-
-
 
 ![Most used lang](https://github-readme-stats.vercel.app/api/top-langs/?username=sonigeez&layout=compact&theme=buefy&hide_border=true)
+
+
+
+![Bharat's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonigeez&theme=shades-of-purple&show_icons=true&count_private=true)
+
 
 
 

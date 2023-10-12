@@ -3,6 +3,7 @@ Yoooo/Techno Optimist
 - actively working on flutter, frontend, backend stuff
 - intrested in collaborating in a project involving real-time web technologies.
 - im doing physics major btw
+- i code for fun btw
 
 
 ![Most used lang](https://github-readme-stats.vercel.app/api/top-langs/?username=sonigeez&layout=compact&theme=buefy&hide_border=true)

@@ -1,3 +1,8 @@
-
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/sonigeez/sonigeez/main/dragon-ball-better-than-dbz-adventure-fun.avif');]{x0000}$}
+\ce{$\unicode[goombafont; animation:spin 4s linear infinite;]{$\sqrt{2} \approx 1.414$}$}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+\```

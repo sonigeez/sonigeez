@@ -1,3 +1,4 @@
+```math
 $$
 \begin{array}{c}
 \color{red}{\text{Red Text}} \\
